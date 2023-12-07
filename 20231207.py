@@ -36,11 +36,3 @@ if __name__ == "__main__" :
     print(Ball.field_name)
     print(Boat.sport_name)
     print(Boat.field_name)
-
-    Ball.name = "ground"
-
-    print(Ball.sport_name)
-    print(Ball.field_name)
-    print(Boat.sport_name)
-    print(Boat.field_name)
-    
